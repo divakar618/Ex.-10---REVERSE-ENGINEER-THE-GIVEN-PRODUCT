@@ -32,11 +32,22 @@
 
 ## Input:
 
+![241561049-8e2e2184-eda6-47d0-8591-a61a425994b9](https://github.com/divakar618/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121932143/de8872fb-5704-4e46-aff5-3927ea9fcd99)
+
+
+
+
 ### Output:
 
 
-### Name:
-### Register Number:
+
+![241561059-12778797-d93a-4b67-a563-c02fb04edfb1](https://github.com/divakar618/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121932143/d39ecf77-0f17-4f27-9bb1-3b26b47690de)
+
+
+
+
+### Name: DIVAKAR R
+### Register Number: 212222240026
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
